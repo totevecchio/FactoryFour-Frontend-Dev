@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FactoryFour-Frontend-Dev/static/css/main.e967c9a1.css",
+    "main.js": "/FactoryFour-Frontend-Dev/static/js/main.3e4c65ec.js",
+    "index.html": "/FactoryFour-Frontend-Dev/index.html",
+    "main.e967c9a1.css.map": "/FactoryFour-Frontend-Dev/static/css/main.e967c9a1.css.map",
+    "main.3e4c65ec.js.map": "/FactoryFour-Frontend-Dev/static/js/main.3e4c65ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e967c9a1.css",
+    "static/js/main.3e4c65ec.js"
+  ]
+}
