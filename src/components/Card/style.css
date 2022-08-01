@@ -1,0 +1,32 @@
+.card-container {
+    text-transform: uppercase;
+    width: 7rem;
+    background-color: white;
+    padding: 2rem;
+    text-align: center;
+    margin: 1rem 0.5rem;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    line-height: 0.8rem;
+}
+
+.title {
+    font-size: 1rem;
+    font-weight: 900;
+}
+
+.time {
+    font-size: 1rem;
+}
+
+.healthy {
+    color: green;
+}
+
+.not-healthy {
+    color: red;
+}
+
+.text {
+    font-size: 0.8rem;
+}
